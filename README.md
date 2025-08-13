@@ -1,7 +1,6 @@
 # TikCraft - TikTok LIVE Event Monitor for Minecraft
 <p align="center">
   <!-- You can place your logo URL here -->
-  <img src="URL_TO_YOUR_LOGO_OR_IMAGE_HERE" alt="TikCraft Logo" width="150"/>
 </p>
 
 **TikCraft** is a powerful desktop application designed for streamers who want to create a unique interactive experience by connecting events from their TikTok LIVE broadcasts to custom actions within their Minecraft server.
