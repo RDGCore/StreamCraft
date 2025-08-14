@@ -1,11 +1,11 @@
-# TikCraft - TikTok LIVE Event Monitor for Minecraft
+# StreamCraft - TikTok LIVE Event Monitor for Minecraft
 <p align="center">
   <!-- You can place your logo URL here -->
 </p>
 
-**TikCraft** is a powerful desktop application designed for streamers who want to create a unique interactive experience by connecting events from their TikTok LIVE broadcasts to custom actions within their Minecraft server.
+**StreamCraft** is a powerful desktop application designed for streamers who want to create a unique interactive experience by connecting events from their TikTok LIVE broadcasts to custom actions within their Minecraft server.
 
-From running in-game commands when a viewer sends a specific gift to displaying on-screen alerts for new followers, TikCraft gives you full control to gamify your streams.
+From running in-game commands when a viewer sends a specific gift to displaying on-screen alerts for new followers, StreamCraft gives you full control to gamify your streams.
 
 ## ✨ Key Features
 
@@ -21,7 +21,7 @@ From running in-game commands when a viewer sends a specific gift to displaying 
 
 ## 📚 Detailed Feature Guide
 
-### 1. Event-Action System (The Heart of TikCraft)
+### 1. Event-Action System (The Heart of StreamCraft)
 
 The main logic is based on linking TikTok **Events** with in-game or overlay **Actions**.
 
@@ -51,7 +51,7 @@ In the `Configuration` tab, you can connect the application to your Minecraft se
 *   **Test Button**: To verify that the connection works correctly.
 
 ### 3. Streaming Overlays
-TikCraft includes a local web server to generate overlays that you can add as a "Browser Source" in your streaming software.
+StreamCraft includes a local web server to generate overlays that you can add as a "Browser Source" in your streaming software.
 *   **Alert Overlay**: Displays the text, sound, and video alerts configured in your actions.
 *   **Gift Feed Overlay**: Shows a real-time list of the latest gifts received.
 
